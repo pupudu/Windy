@@ -1,6 +1,6 @@
-const a2 = 123;
+const a2 = 1234;
 
 function print() {
-  console.log("Wimukthi");
+  console.log("Indeewara");
 }
 
